@@ -1,8 +1,11 @@
-Origin: iwilldied 
-Label: VTTN
+Origin: Long Mến❤️
+Label: Long Mến's Repo❤️
 Suite: stable
 Version: 1.0
 Codename: ios
-Architectures: iphoneos-arm
-Components: main 
-Description: :>
+Architecture: iphoneos-arm
+Components: main
+Description: Long Mến Repository❤️
+MD5Sum:
+ eac04e08808f9423726704561ed83e03 630 Packages
+ 3f34cc4e0d98f480a3cf9dc023c84168 466 Packages.bz2
