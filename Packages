@@ -1,0 +1,11 @@
+Package: com.patrickgriffin.disableyoutubeupdate
+Name: Disableyoutubeupdate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: Patrick_Griffin
+Depends: mobilesubstrate
+Filename: ./debs/disableyoutubeupdates.deb
+Size: 2914
+MD5sum: 9097866b3b81e4ff60d96b9d32eed7c7
+Description: chặn banner thông báo cập nhật dú tu bè
+Author: Patrick_Griffin
