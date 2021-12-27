@@ -250,3 +250,19 @@ SHA512: 30e3622be70e795f6b2ca7a5392d962257d342f0a54f4ae69e1ce72cad6e59c7e9397351
 Description: cleo gta sândrea
 Name: CLEO FOR GTA SAN
 Author: Squ1dd13
+
+Package: com.julioverne.spotilife
+Architecture: iphoneos-arm
+Version: 1.7a
+Section: Tweaks
+Maintainer: Julio
+Depends: mobilesubstrate
+Filename: ./DEB/com.julioverne.spotilife.deb
+Size: 193424
+MD5sum: 65e1d4ccb340e1749852adb55a2ca59a
+SHA1: 6f03217f0f97cba3ba49d61367437e03505db3a5
+SHA256: e1b1e78fe6fdb8e207a9c41f2fec3549171743ca308736b60185cab7d704a395
+SHA512: e5aefcaaee6b9f1b76d422beb2c448db2ae0a9cc3f64d2d03ba7f7a202e09ecaf191b00ae04a03d6f4926c21ff4fcb8d2bca786b8afedaf5cfbbff08377843a5
+Description: prespotify
+Name: spoti++
+Author: julioverne
