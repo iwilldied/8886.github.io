@@ -231,7 +231,7 @@ MD5sum: 9097866b3b81e4ff60d96b9d32eed7c7
 SHA1: 1514dadae60af3994eee6279e0467e3272c6ca71
 SHA256: 5c3f8402d80a977172bd92e405110f1d3a1c19b40c618a813c349be08a754ffd
 SHA512: e22f2ef01c5db9866518643b58f978098b7426459ed4ded3bdcc75eea5ea51af6ec7e400fd797c9bbf7c117aa909735ca69afe4c2ee692b324ac75be8be21c7c
-Description: Disables YouTube update prompts
+Description: chặn banner thông báo cập nhật youtube
 Name: DisableYouTubeUpdates
 Author: Patrick_Griffin
 
@@ -251,13 +251,13 @@ Description: cleo gta sândrea
 Name: CLEO FOR GTA SAN
 Author: Squ1dd13
 
-Package: com.julioverne.spotilife
+Package: com.8886.spotilife
 Architecture: iphoneos-arm
 Version: 1.7a
 Section: Tweaks
 Maintainer: Julio
 Depends: mobilesubstrate
-Filename: ./DEB/com.julioverne.spotilife.deb
+Filename: ./DEB/com.8886.spoti++.deb
 Size: 193424
 MD5sum: 65e1d4ccb340e1749852adb55a2ca59a
 SHA1: 6f03217f0f97cba3ba49d61367437e03505db3a5
