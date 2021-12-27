@@ -317,3 +317,54 @@ SHA512: fcf4f8a1bbf69afee4da4fabd09a1327a04a6996ca4b47d9945b3431d5a879932fe92dbb
 Description: tăng tốc độ xem youtube x4 :>
 Name: YTSpeed (10-14)
 Author: Lyvendia
+
+Package: com.8886.YTClassicvideoquality
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Little 34306
+Installed-Size: 72
+Depends: mobilesubstrate(>=0.9.5000), firmware(>=11.0)
+Filename: ./DEB/com.8886.ytclassicvideoquality_1.0.1_iphoneos-arm.deb
+Size: 3078
+MD5sum: 42af65fe39ff1a7a1ad9e77056eab19d
+SHA1: 9e37b55a089b5b9d34c11a7bf881748a74426495
+SHA256: 4ac508932d290f8578632692863e81ae7972024496e958f33dba0760ea45b676
+SHA512: 618449a28feaf703b7638fa10526cde8ed1a5938df2fca911db3f1df71e0adc483c87a54a89507991124ef3658e60b9a7c5a3354c4142d553fdb4d0e03d927ee
+Description: Menu chất lượng xem YT phiên bản cũ 
+Name: YTClassicvideoquality
+Author: PoomSmart
+
+Package: com.8886.disableuglysuggestions
+Architecture: iphoneos-arm
+Version: 1.3
+Section: Tweaks
+Maintainer: Bigboss
+Installed-Size: 282
+Depends: mobilesubstrate(>=0.9.5000), firmware(>=10.0)
+Filename: ./DEB/com.8886.disableuglysuggestions_1.3_iphoneos-arm.deb
+Size: 4494
+MD5sum: 591868efb494fe35e9b0631e868ff5d4
+SHA1: 1c69bd045f96e381c5d103734076791d92fae95c
+SHA256: d0d2ca4f5c9fd94c0350db6ab79c2a962f4edb19cde47d14153c444907623100
+SHA512: 8cb43f782f323156949d293eda0c4604f8951c01ad8cce6a92f0c9c54bbb89d2ed100fd5f13c1f472426d08e49a9686f968de5a1c0a7952879efec68a401ae6a
+Description: Chặn banner những video đề xuất
+Name: Disableuglysuggestions
+Author: @CrazyMind90
+
+Package: com.8886.YTAdblock
+Architecture: iphoneos-arm
+Version: 14.44.3
+Section: Tweaks
+Maintainer: Atebitsy
+Installed-Size: 216
+Depends: mobilesubstrate(>=0.9.5000), firmware(>=10.0)
+Filename: ./DEB/com.8886.ios.ytadblock_15.42.5_iphoneos-arm.deb
+Size: 8998
+MD5sum: b2f10403a79cff3e9dd0b64ad44ca960
+SHA1: 2f70fa245188e045c41055c8601f984a6c694d43
+SHA256: cd0017d0adbcd259b987bef4c9f54d64a6f9f2b4612e563dee20e5a96e182375
+SHA512: e1316e7db9cb9ade329ebbab827f99cfc41956eb02ff113001838f13acd48ba77152b58874d49c02952ec0f4844ca64f0ddfc36108d70ea16b5bf021aeecadae
+Description: Chặn quảng cáo nhẹ nhất
+Name: YTAdblock (10-14)
+Author: Atebitsy
