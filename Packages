@@ -119,7 +119,7 @@ SHA1: b2b1a99779e9c02f0673e76a3c41769a71128bb2
 SHA256: e217104decad99815bdac7c145ac1baebe6519245777f220a892befb383361d3
 SHA512: 6aab6208c6ccfcc2e0f02db7ed4d79f7abf98dca9a8e26dc60f63d973357c064e09609d617842fb877ec8b88773e50386fd0b46a83c20a2a8b7c7a9e81dee13b
 Description: Bỏ qua thanh toán trong các ứng dụng App Store
-Name: LocaliAPStore VN
+Name: LocaliAPStore (7-14)
 Author: Anondev
 Depiction: Bỏ qua thanh toán trong các ứng dụng App Store
 SileoDepiction: Bỏ qua thanh toán trong các ứng dụng App Store
@@ -131,7 +131,7 @@ Priority: extra
 Section: iOS-Cheats
 Maintainer: Alcatraz
 Installed-Size: 52
-Depends: mobilesubstrate
+Depends: mobilesubstrate, firmware (<=10)
 Filename: ./DEB/com.8886.mc4_1.1.0-9_iphoneos-arm.deb
 Size: 30272
 MD5sum: 7bb57185c9b55033798c7a14af462198
@@ -140,7 +140,7 @@ SHA256: 2407e4f1a95c7ac194849fa334e234653b04ae056eea3d87f020216338b7ee33
 SHA512: 36fe8d56db6b8b808d56bb1d9ba77bd74b83f057777f7eaa673af49c39e159b2a37e07286d9e5a49a281e48e42f2c03b7924a622cce40cbf7c6945052743bb2f
 Homepage: http://ioscheaters.com
 Description: Modern Combat 4 Cheats
-Name: Modern Combat 4 Cheats
+Name: Modern Combat 4 Cheats 
 Author: caoyin,Pkerr,& Prince7
 
 Package: com.8886.moderncombat2
@@ -232,7 +232,7 @@ SHA1: 1514dadae60af3994eee6279e0467e3272c6ca71
 SHA256: 5c3f8402d80a977172bd92e405110f1d3a1c19b40c618a813c349be08a754ffd
 SHA512: e22f2ef01c5db9866518643b58f978098b7426459ed4ded3bdcc75eea5ea51af6ec7e400fd797c9bbf7c117aa909735ca69afe4c2ee692b324ac75be8be21c7c
 Description: chặn banner thông báo cập nhật youtube
-Name: DisableYouTubeUpdates
+Name: DisableYouTubeUpdates (10-14)
 Author: Patrick_Griffin
 
 Package: com.8886.cleo_gta_san
@@ -264,5 +264,56 @@ SHA1: 6f03217f0f97cba3ba49d61367437e03505db3a5
 SHA256: e1b1e78fe6fdb8e207a9c41f2fec3549171743ca308736b60185cab7d704a395
 SHA512: e5aefcaaee6b9f1b76d422beb2c448db2ae0a9cc3f64d2d03ba7f7a202e09ecaf191b00ae04a03d6f4926c21ff4fcb8d2bca786b8afedaf5cfbbff08377843a5
 Description: prespotify
-Name: spoti++
+Name: spoti++ (10-14)
 Author: julioverne
+
+Package: com.8886.cahighfps
+Architecture: iphoneos-arm
+Version: 1.1.0
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 204
+Depends: mobilesubstrate(>=0.9.5000), firmware(>=7.0), com.opa334.altlist(>=1.0.4)
+Filename: ./DEB/com.8886.cahighfps_1.1.0_iphoneos-arm.deb
+Size: 8548
+MD5sum: f92992176d4170338a87577c89f7a995
+SHA1: 417af00f31c3d75104f5d16214fde50e8cc83bb8
+SHA256: 1915688f1c28544137c2278fc166a53f2373f99d35770ddccff8783909469263
+SHA512: fa75b46a63b4c990e1768335b8f07d849ec35619a223c5ba6e4280afa79d201fa80fd3155abb4b0825b389d112294bfd2278bd02efba03bb766c00e5d3494db3
+Description: tăng khung hình dành cho thiết bị 32bit
+Name: Cahighfps (10-14)
+Author: PoomSmart
+
+Package: com.8886.sixtyfps
+Architecture: iphoneos-arm
+Version: 1.0.0
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 140
+Depends: mobilesubstrate(>=0.9.5000), firmware(>=7.0), gsc.still-camera
+Filename: ./DEB/com.8886.sixtyfps_1.0.0~b1_iphoneos-arm.deb
+Size: 8548
+MD5sum: 0081f5b371d73cf380b595bcb21e8da7
+SHA1: a419416eb3506e0f4196f85d8fcb369cd9f39124
+SHA256: da93545e1f9ef42bbddf0c164743d01ae54530fb6ed4e278a0558fdc6e346206
+SHA512: e8dd8b5b19a3c601b74bb50f587bd896ec52a4447ffb5ba839956b876883e507e90e5438827b93d5256546a2eedd1fbad225a6685a47958b708a1a4fd7918843
+Description: tăng khung hình quay film Iphone5,5s,5se
+Name: 60FPS
+Author: PoomSmart
+
+Package: com.8886.YTSpeed
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: Lyvendia
+Installed-Size: 200
+Depends: mobilesubstrate(>=0.9.5000), firmware(>=7.0)
+Filename: ./DEB/com.8886.ytspeed_1.0.1_iphoneos-arm.deb
+Size: 10072
+MD5sum: 3a4f8ac57125306d51ef2606183c147e
+SHA1: 18298997f66ea70db57cfaf1768629bb1d1ab8d2
+SHA256: 0713e1ff745538507f628264471900e1cf817f4198ef27bf562577b80cc97f1f
+SHA512: fcf4f8a1bbf69afee4da4fabd09a1327a04a6996ca4b47d9945b3431d5a879932fe92dbbd66d17ea3623330e66d5c42a71d4a649f4fb4ac5f2e31787d5a4fdd1
+Description: tăng tốc độ xem youtube x4 :>
+Name: YTSpeed (10-14)
+Author: Lyvendia
