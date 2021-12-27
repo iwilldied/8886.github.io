@@ -240,7 +240,6 @@ Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Tweaks
 Maintainer: Squ1dd13
-Installed-Size: 344986
 Depends: mobilesubstrate
 Filename: ./DEB/com.8886.cleo_gta_san.deb
 Size: 344986
