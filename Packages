@@ -235,3 +235,20 @@ Description: chặn banner thông báo cập nhật youtube
 Name: DisableYouTubeUpdates (10-14)
 Author: Patrick_Griffin
 
+Package: com.google.ios.ytadblock
+Architecture: iphoneos-arm
+Version: 15.42.5
+Section: Tweaks
+Maintainer: 8886
+Installed-Size: 216
+Depends: mobilesubstrate (>=0.9.5000)
+Filename: ./DEB/com.google.ios.ytadblock_15.42.5_iphoneos-arm.deb
+Size: 14398
+MD5sum: 79336b59461cfff04381c35a541f07e8
+SHA1: ecb45c6efc78df39a7be9bb035b0912d5b730342
+SHA256: a7b421e9e3496f87a932fcc8d8e438db41eb0a3bbd6d59585afca687e9a67c93
+SHA512: 2a5b6206b82aa100cb00c6d5416baa557a9682bd3c1941751bff3ff0aa4ea4fa2eb8056298ec0d509e7357ae916f2d60271bdbf7fcbc23c3a929e4a443a2f41f
+Description: Blockad For Youtube
+Depiction: Chặn cập nhật quảng cáo nhẹ nhất
+Name: YTAdblocked
+Author: Atebitsy
