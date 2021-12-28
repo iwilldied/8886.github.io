@@ -341,7 +341,7 @@ Version: 14.44.3
 Section: Tweaks
 Maintainer: 8886
 Depends: mobilesubstrate(>=0.9.5000), firmware(>=10.0)
-Filename: ./DEB/com.8886.ios.ytadblock_14.44.3_iphoneos-arm.deb
+Filename: ./DEB/com.google.ios.ytadblock_14.44.3_iphoneos-arm.deb
 Size: 14396
 MD5sum: f17ba30e844c2d336f6440eb56f863d0
 SHA1: 6d1e918cb37d78ad54050d3b0b2c5f8ed4fa1441
