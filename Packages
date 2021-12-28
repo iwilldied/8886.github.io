@@ -335,12 +335,11 @@ Description: Chặn banner những video đề xuất
 Name: Disableuglysuggestions
 Author: @CrazyMind90
 
-Package: com.8886.ios.ytadblock
+Package: com.google.ios.ytadblock
 Architecture: iphoneos-arm
 Version: 14.44.3
 Section: Tweaks
 Maintainer: 8886
-Installed-Size: 216
 Depends: mobilesubstrate(>=0.9.5000), firmware(>=10.0)
 Filename: ./DEB/com.8886.ios.ytadblock_14.44.3_iphoneos-arm.deb
 Size: 14396
