@@ -352,19 +352,19 @@ Description: Chặn quảng cáo nhẹ nhất
 Name: YTAdblock (10-14)
 Author: Atebitsy
 
-Package: com.34306.YTClassicvideoquality
+Package: com.8886.YTClassicvideoquality
 Architecture: iphoneos-arm
 Version: 1.0.1
 Section: Tweaks
-Maintainer: Little 34306
+Maintainer: 8886
 Installed-Size: 72
 Depends: mobilesubstrate(>=0.9.5000), firmware(>=11.0)
-Filename: ./DEB/com.34306.ytclassicvideoquality_1.0.1_iphoneos-arm.deb
+Filename: ./DEB/com.8886.ytclassicvideoquality_1.0.1_iphoneos-arm.deb
 Size: 3078
-MD5sum: 42af65fe39ff1a7a1ad9e77056eab19d
-SHA1: 9e37b55a089b5b9d34c11a7bf881748a74426495
-SHA256: 4ac508932d290f8578632692863e81ae7972024496e958f33dba0760ea45b676
-SHA512: 618449a28feaf703b7638fa10526cde8ed1a5938df2fca911db3f1df71e0adc483c87a54a89507991124ef3658e60b9a7c5a3354c4142d553fdb4d0e03d927ee
+MD5sum: 9ebf6c10b4bad841323f996fcb79d776
+SHA1: c93173cbc3ee669af6f82a8bbbdb7038f7238a1d
+SHA256: 5acd9b9445d1e197fd7a767fd2a4adaacd3b681f4ffb9421c3838922106959f2
+SHA512: 7bbe30677d3783ea78e2ad5634476e889b3780d14f33bb6865e3bf7b537ff8d33af1fdbc64599fbcebe65311e2e824377f6d20c68bca4f94e0bf246ba8b6fe7f
 Description: Menu chất lượng xem YT phiên bản cũ 
 Name: YTClassicvideoquality
 Author: PoomSmart
