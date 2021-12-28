@@ -252,3 +252,21 @@ Description: Blockad For Youtube
 Depiction: Chặn cập nhật quảng cáo nhẹ nhất
 Name: YTAdblocked
 Author: Atebitsy
+
+Package: com.julioverne.spoti++
+Architecture: iphoneos-arm
+Version: 1.7.0
+Section: Tweaks
+Maintainer: 8886
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./DEB/com.julioverne.spoti++_1.7.0_iphoneos-arm.deb
+Size: 193422
+MD5sum: 7f295c89c779ecf5cccf8313a7a4f40f
+SHA1: be280ab2479bc2ad877b58ff1ca6e8e936ff48e8
+SHA256: d7970190cde30c0b55d198fc8d0e29be0a9dbe8cfcdfdeaeffc45befbf91e365
+SHA512: b243f36351d1bf23f1a6fc04590a20d264746279cfab8a7c5fcb03749424ef7e678dd3fc72aac4f705690bfda0c7a6c41d1d46c2f9a606b0769fc78f00bfba01
+Description: Premium Spotify
+Depiction: Chức năng như premium, không tải được nhạc, không stream được chất lượng cực cao
+Name: Spoti++
+Author: julioverne
