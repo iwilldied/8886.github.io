@@ -343,7 +343,7 @@ Maintainer: 8886
 Installed-Size: 216
 Depends: mobilesubstrate(>=0.9.5000), firmware(>=10.0)
 Filename: ./DEB/com.8886.ios.ytadblock_14.44.3_iphoneos-arm.deb
-Size: 8998
+Size: 14396
 MD5sum: f17ba30e844c2d336f6440eb56f863d0
 SHA1: 6d1e918cb37d78ad54050d3b0b2c5f8ed4fa1441
 SHA256: 7cc732a5275e6a1497f528c7049f0ab7132002f81d43bfcf4ee01737bd1bb25c
@@ -360,7 +360,7 @@ Maintainer: 8886
 Installed-Size: 72
 Depends: mobilesubstrate(>=0.9.5000), firmware(>=11.0)
 Filename: ./DEB/com.8886.ytclassicvideoquality_1.0.1_iphoneos-arm.deb
-Size: 3078
+Size: 3076
 MD5sum: 9ebf6c10b4bad841323f996fcb79d776
 SHA1: c93173cbc3ee669af6f82a8bbbdb7038f7238a1d
 SHA256: 5acd9b9445d1e197fd7a767fd2a4adaacd3b681f4ffb9421c3838922106959f2
