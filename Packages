@@ -335,19 +335,19 @@ Description: Chặn banner những video đề xuất
 Name: Disableuglysuggestions
 Author: @CrazyMind90
 
-Package: com.8886.YTAdblock
+Package: com.google.ios.ytadblock
 Architecture: iphoneos-arm
 Version: 14.44.3
 Section: Tweaks
 Maintainer: 8886
 Installed-Size: 216
 Depends: mobilesubstrate(>=0.9.5000), firmware(>=10.0)
-Filename: ./DEB/com.8886.ios.ytadblock_15.42.5_iphoneos-arm.deb
+Filename: ./DEB/com.google.ios.ytadblock_14.44.3_iphoneos-arm.deb
 Size: 8998
-MD5sum: b2f10403a79cff3e9dd0b64ad44ca960
-SHA1: 2f70fa245188e045c41055c8601f984a6c694d43
-SHA256: cd0017d0adbcd259b987bef4c9f54d64a6f9f2b4612e563dee20e5a96e182375
-SHA512: e1316e7db9cb9ade329ebbab827f99cfc41956eb02ff113001838f13acd48ba77152b58874d49c02952ec0f4844ca64f0ddfc36108d70ea16b5bf021aeecadae
+MD5sum: f17ba30e844c2d336f6440eb56f863d0
+SHA1: 6d1e918cb37d78ad54050d3b0b2c5f8ed4fa1441
+SHA256: 7cc732a5275e6a1497f528c7049f0ab7132002f81d43bfcf4ee01737bd1bb25c
+SHA512: a6acae1025db9d0468fb742b2aa73c7e0a09578051b8c42d025f5a8cda45693a9ff6f6df8a3e36c69312ce2decf677f39e698c3912a4475b46e08403532c90db
 Description: Chặn quảng cáo nhẹ nhất
 Name: YTAdblock (10-14)
 Author: Atebitsy
