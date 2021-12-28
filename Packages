@@ -129,7 +129,7 @@ Architecture: iphoneos-arm
 Version: 1.1.0-9
 Priority: extra
 Section: iOS-Cheats
-Maintainer: Alcatraz
+Maintainer: 8886
 Installed-Size: 52
 Depends: mobilesubstrate, firmware (<=10)
 Filename: ./DEB/com.8886.mc4_1.1.0-9_iphoneos-arm.deb
@@ -222,7 +222,7 @@ Package: com.patrickgriffin.disableyoutubeupdates
 Architecture: iphoneos-arm
 Version: 0.0.1
 Section: Tweaks
-Maintainer: Patrick_Griffin
+Maintainer: 8886
 Installed-Size: 104
 Depends: mobilesubstrate
 Filename: ./DEB/disableyoutubeupdates.deb
@@ -239,7 +239,7 @@ Package: com.8886.cleo_gta_san
 Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Tweaks
-Maintainer: Squ1dd13
+Maintainer: 8886
 Depends: mobilesubstrate
 Filename: ./DEB/com.8886.cleo_gta_san.deb
 Size: 344986
@@ -255,7 +255,7 @@ Package: com.8886.spotilife
 Architecture: iphoneos-arm
 Version: 1.7a
 Section: Tweaks
-Maintainer: Julio
+Maintainer: 8886
 Depends: mobilesubstrate
 Filename: ./DEB/com.8886.spoti++.deb
 Size: 193424
@@ -271,7 +271,7 @@ Package: com.8886.cahighfps
 Architecture: iphoneos-arm
 Version: 1.1.0
 Section: Tweaks
-Maintainer: PoomSmart
+Maintainer: 8886
 Installed-Size: 204
 Depends: mobilesubstrate(>=0.9.5000), firmware(>=7.0), com.opa334.altlist(>=1.0.4)
 Filename: ./DEB/com.8886.cahighfps_1.1.0_iphoneos-arm.deb
@@ -288,7 +288,7 @@ Package: com.8886.sixtyfps
 Architecture: iphoneos-arm
 Version: 1.0.0
 Section: Tweaks
-Maintainer: PoomSmart
+Maintainer: 8886
 Installed-Size: 140
 Depends: mobilesubstrate(>=0.9.5000), firmware(>=7.0), gsc.still-camera
 Filename: ./DEB/com.8886.sixtyfps_1.0.0~b1_iphoneos-arm.deb
@@ -305,7 +305,7 @@ Package: com.8886.YTSpeed
 Architecture: iphoneos-arm
 Version: 1.0.1
 Section: Tweaks
-Maintainer: Lyvendia
+Maintainer: 8886
 Installed-Size: 200
 Depends: mobilesubstrate(>=0.9.5000), firmware(>=7.0)
 Filename: ./DEB/com.8886.ytspeed_1.0.1_iphoneos-arm.deb
@@ -322,7 +322,7 @@ Package: com.8886.YTClassicvideoquality
 Architecture: iphoneos-arm
 Version: 1.0.1
 Section: Tweaks
-Maintainer: Little 34306
+Maintainer: 8886
 Installed-Size: 72
 Depends: mobilesubstrate(>=0.9.5000), firmware(>=11.0)
 Filename: ./DEB/com.8886.ytclassicvideoquality_1.0.1_iphoneos-arm.deb
@@ -339,7 +339,7 @@ Package: com.8886.disableuglysuggestions
 Architecture: iphoneos-arm
 Version: 1.3
 Section: Tweaks
-Maintainer: Bigboss
+Maintainer: 8886
 Installed-Size: 282
 Depends: mobilesubstrate(>=0.9.5000), firmware(>=10.0)
 Filename: ./DEB/com.8886.disableuglysuggestions_1.3_iphoneos-arm.deb
@@ -356,7 +356,7 @@ Package: com.8886.YTAdblock
 Architecture: iphoneos-arm
 Version: 14.44.3
 Section: Tweaks
-Maintainer: Atebitsy
+Maintainer: 8886
 Installed-Size: 216
 Depends: mobilesubstrate(>=0.9.5000), firmware(>=10.0)
 Filename: ./DEB/com.8886.ios.ytadblock_15.42.5_iphoneos-arm.deb
