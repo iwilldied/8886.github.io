@@ -293,10 +293,10 @@ Installed-Size: 140
 Depends: mobilesubstrate(>=0.9.5000), firmware(>=7.0), gsc.still-camera
 Filename: ./DEB/com.8886.sixtyfps_1.0.0~b1_iphoneos-arm.deb
 Size: 9630
-MD5sum: 792e9bb1860fd75d9d49ea94dc988870
-SHA1: 4c331d09878d087e398422fde8237455b5eb654b
-SHA256: 9e7718de5922eb9f1dd8dc20e81f990ac84ff6279e591d83bd95fd40e08459fc
-SHA512: b80f4879867e2d88a03ebb24c79dc0a5dec2604ae183ad6f109c80da6689d0b6a254cb1658b15bfc6d3198d49c9d9c8ef803d4157fe99338e3cccf64457db190
+MD5sum: a2f137f8c802e898f909b2433ed35d09
+SHA1: ad2357683bee88f4e9c09abbe77cf48b525be0cf
+SHA256: 954e9c40c1d3e253c4d438ba1dd65bf7db9f643c5dd405e0fa733f33a55afdd4
+SHA512: 77beb4a104e5ad53d37f29e7236873d364238fa21681660d45837c9637652f676ffc603aeef5bc2527cd8ab07e3e90faa2f1d1fd071f86e9356f7145bec1b4e6
 Description: tăng khung hình quay film Iphone5,5s,5se
 Name: 60FPS
 Author: PoomSmart
