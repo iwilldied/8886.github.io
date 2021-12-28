@@ -351,7 +351,7 @@ Description: Chặn quảng cáo nhẹ nhất
 Name: YTAdblock (10-14)
 Author: Atebitsy
 
-Package: com.8886.YTClassicvideoquality
+Package: com.8886.ytclassicvideoquality
 Architecture: iphoneos-arm
 Version: 1.0.1
 Section: Tweaks
