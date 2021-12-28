@@ -292,7 +292,7 @@ Maintainer: 8886
 Installed-Size: 140
 Depends: mobilesubstrate(>=0.9.5000), firmware(>=7.0), gsc.still-camera
 Filename: ./DEB/com.8886.sixtyfps_1.0.0~b1_iphoneos-arm.deb
-Size: 9630
+Size: 9626
 MD5sum: a2f137f8c802e898f909b2433ed35d09
 SHA1: ad2357683bee88f4e9c09abbe77cf48b525be0cf
 SHA256: 954e9c40c1d3e253c4d438ba1dd65bf7db9f643c5dd405e0fa733f33a55afdd4
